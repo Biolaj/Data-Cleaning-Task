@@ -1,0 +1,19 @@
+Region,Sum of Quantity,Sum of Price Per Unit, Sum of Total Value 
+Asgard,155,58.08,"4,499.75"
+East,190,103.89,"4,400.00"
+North,105,67.33,"2,399.85"
+South,295,160.32,"8,049.90"
+West,190,267.06,"5,950.20"
+Others,30,36.67,"1,100.10"
+Grand Total,965,693.35,"26,399.80"
+,,,
+,,,
+Duplicate ID were removed by clicking on Data- Remove Duplicate botton.,,,
+"""ifs"" were removed by first Filter the data, Select ""ifs"" and delete",,,
+Total Value and presentation of data are done using Pivot Table.,,,
+Report,,,
+There are Five regions in the table plus a Blank Region ,,,
+"The blank region was named ""others""",,,
+South has the highest quantity 0f 295 out of total of 965 representing 30.5%.,,,
+Others has the lowest quantity while East and West has the same quantity.,,,
+"West has the highest Total Value of 8,049.90 followed by the West with 5,950.20.",,,
